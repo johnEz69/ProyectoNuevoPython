@@ -1,0 +1,3 @@
+Roxana Robledo,matematicas,3,A
+raul Rojas,musica,3,B
+Sofia Gomez,ingles,4,A

@@ -1,0 +1,2 @@
+12/10/2023,jose martinez,123456789,hugo,python,a,-1
+13/10/2023,jonatan ezequiel,34417567,mario,python multiparadigma,c,-1
